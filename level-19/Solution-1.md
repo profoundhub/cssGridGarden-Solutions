@@ -3,17 +3,21 @@
 
 ## GRID GARDEN
 
-#garden {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
-}
 
-.water {
-  order: 0;
-}
+### Code: 
 
-.poison {
+```    
+    #garden {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
 
-order: ;
-}
+    .water {
+        order: 0;
+    }
+
+    .poison {
+        order: ;
+    }
+```
