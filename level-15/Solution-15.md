@@ -3,3 +3,5 @@
 
 ## GRID GARDEN
 
+grid-row : ; 
+grid-column: ;
