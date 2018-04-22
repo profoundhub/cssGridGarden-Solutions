@@ -6,5 +6,15 @@
 ### Code: 
 
 ```
+#garden {
+  display: grid;
 
+grid-template-columns: ;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+  grid-column: 1;
+  grid-row: 1;
+}
 ```
