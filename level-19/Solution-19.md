@@ -19,6 +19,6 @@ Now the water and poison are alternating, even though all of the weeds are at th
     }
 
     .poison {
-        order: ;
+        order: -1;        
     }
 ```
