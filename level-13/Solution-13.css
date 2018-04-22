@@ -1,4 +1,5 @@
 /* Solution #13 */
 
 #water {
+    grid-row: span 3 / 6;
 }
