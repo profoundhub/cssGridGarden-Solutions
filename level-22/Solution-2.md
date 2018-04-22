@@ -10,5 +10,9 @@ Here, set three columns to 100px, 3em, and 40% respectively.
 ### Code: 
 
 ```
+#garden {
+  display: grid;
 
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
 ```

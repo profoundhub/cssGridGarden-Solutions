@@ -2,3 +2,8 @@
     Solution #2 
 */
 
+#garden {
+    display: grid;
+  
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
