@@ -1,5 +1,18 @@
 
-# Solution #1
+# Solution #16
 
 ## GRID GARDEN
 
+If typing out both grid-column and grid-row is too much for you, there's yet another shorthand for that. grid-area accepts four values separated by slashes: grid-row-start, grid-column-start, grid-row-end, followed by grid-column-end.
+
+One example of this would be grid-area: 1 / 1 / 3 / 6;.
+
+#garden {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+    grid-area: ;
+}
