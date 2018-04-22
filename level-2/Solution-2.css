@@ -1,5 +1,5 @@
 /* Solution #2 */
 
 #poison {
-    grid-template-columns: ;
+    grid-column-start: 5;
 }

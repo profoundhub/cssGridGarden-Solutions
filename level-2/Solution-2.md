@@ -12,6 +12,5 @@ Uh oh, looks like weeds are growing in the corner of your garden. Use grid-colum
 }
 
 #poison {
-
-grid-template-columns:
+  grid-column-start: 5;
 }
