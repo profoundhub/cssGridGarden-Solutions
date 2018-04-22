@@ -12,7 +12,7 @@ Here, set three columns to 100px, 3em, and 40% respectively.
 ```
 #garden {
     display: grid;
-    grid-template-columns: ;
+    grid-template-columns: 100px 3em 40%;
     grid-template-rows: 20% 20% 20% 20% 20%;
 }
 ```
