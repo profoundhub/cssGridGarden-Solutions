@@ -3,6 +3,7 @@
 
 ## GRID GARDEN
 
+Now the water and poison are alternating, even though all of the weeds are at the start of your garden. Set the order of the poisons to remedy this.
 
 ### Code: 
 
