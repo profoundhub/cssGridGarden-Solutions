@@ -21,6 +21,6 @@ Right now, the carrots in the second column are being poisoned and the weeds in 
     }
 
     #poison {
-
+        order: 6;
     }
 ```
