@@ -7,13 +7,13 @@
 
 ```
 #garden {
-  display: grid;
+    display: grid;
 
-  grid-template-rows: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
 }
 
 #water {
-  grid-column: 1;
-  grid-row: 1;
+    grid-column: 1;
+    grid-row: 1;
 }
 ```
