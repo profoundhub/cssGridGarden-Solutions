@@ -14,7 +14,7 @@ Using grid-template-columns with the repeat function, create eight columns each 
 ```
 #garden {
     display: grid;
-    grid-template-columns : ;
+    grid-template-columns: repeat(8,12.5%);
     grid-template-rows: 20% 20% 20% 20% 20%;
 }
 
