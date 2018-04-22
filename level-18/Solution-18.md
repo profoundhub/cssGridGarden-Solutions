@@ -9,6 +9,8 @@ By default, all grid items have an order of 0, but this can be set to any positi
 
 Right now, the carrots in the second column are being poisoned and the weeds in the last column are being watered. Change the order value of the poison to fix this right away!
 
+### Code: 
+
 ```
     #garden {
         display: grid;
