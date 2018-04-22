@@ -4,7 +4,7 @@
 
 #garden {
     display: grid;
-  
+    grid-template-columns : ;
     grid-template-rows: 20% 20% 20% 20% 20%;
   }
   
