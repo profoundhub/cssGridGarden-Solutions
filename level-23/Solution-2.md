@@ -6,15 +6,12 @@ Grid also introduces a new unit, the fractional fr. Each fr unit allocates one s
 
 Here, weeds make up the left 1/6 of your first row and carrots the remaining 5/6. Create two columns with these widths using fr units.
 
-
 ### Code: 
 
 ```
-
 #garden {
-  display: grid;
-
-grid-template-columns: ;
-  grid-template-rows: 20% 20% 20% 20% 20%;
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 20% 20% 20% 20% 20%;
 }
 ```
