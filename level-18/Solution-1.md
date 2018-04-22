@@ -1,5 +1,10 @@
 
-# Solution #1
+# Solution #18
 
 ## GRID GARDEN
 
+If grid items aren't explicitly placed with grid-area, grid-column, grid-row, etc., they are automatically placed according to their order in the source code. We can override this using the order property, which is one of the advantages of grid over table-based layout.
+
+By default, all grid items have an order of 0, but this can be set to any positive or negative value, similar to z-index.
+
+Right now, the carrots in the second column are being poisoned and the weeds in the last column are being watered. Change the order value of the poison to fix this right away!
