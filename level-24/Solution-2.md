@@ -1,5 +1,10 @@
 
-# Solution #2
+# Solution #24
 
 ## GRID GARDEN
 
+### Code: 
+
+```
+
+```
