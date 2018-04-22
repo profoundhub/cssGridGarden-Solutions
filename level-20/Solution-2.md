@@ -7,10 +7,9 @@
 
 ```
 #garden {
-  display: grid;
-
-grid-template-columns: ;
-  grid-template-rows: 20% 20% 20% 20% 20%;
+    display: grid;
+    grid-template-columns: 50%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
 }
 
 #water {
