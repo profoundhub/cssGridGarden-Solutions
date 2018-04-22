@@ -2,3 +2,13 @@
     Solution #2 
 */
 
+#garden {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+  
+  }
+  
+  #water {
+    grid-column: 1 / 6;
+    grid-row: 5 / 6;
+  }
