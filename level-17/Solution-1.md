@@ -16,5 +16,5 @@ How about multiple items? You can overlap them without any trouble. Use grid-are
 }
 
 #water-2 {
-    grid-area: ;
+    grid-area: 2 / 3 / 5 / 6;
 }
