@@ -6,5 +6,9 @@
 ### Code: 
 
 ```
-
+#garden {
+    display: grid;  
+    grid-template-columns: 75px 3fr 2fr;
+    grid-template-rows: 100%;
+}
 ```
