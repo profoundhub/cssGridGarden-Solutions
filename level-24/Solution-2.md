@@ -1,5 +1,26 @@
 
-# Solution #2
+# Solution #24
 
 ## GRID GARDEN
 
+When columns are set with pixels, percentages, or ems, any other columns set with fr will divvy up the space that's left over.
+
+Here the carrots form a 50 pixel column on the left, and the weeds a 50 pixel column on the right. With grid-template-columns, create these two columns, and use fr to make three more columns that take up the remaining space in between.
+
+### Code: 
+
+```
+#garden {
+  display: grid;
+
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+  grid-area: 1 / 1 / 6 / 2;
+}
+
+#poison {
+  grid-area: 1 / 5 / 6 / 6;
+}
+```

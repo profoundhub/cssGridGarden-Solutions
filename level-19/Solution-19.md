@@ -1,0 +1,24 @@
+
+# Solution #19
+
+## GRID GARDEN
+
+Now the water and poison are alternating, even though all of the weeds are at the start of your garden. Set the order of the poisons to remedy this.
+
+### Code: 
+
+```    
+    #garden {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
+
+    .water {
+        order: 0;
+    }
+
+    .poison {
+        order: -1;        
+    }
+```
