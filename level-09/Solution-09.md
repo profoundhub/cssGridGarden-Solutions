@@ -9,16 +9,15 @@ You can also use the span keyword with grid-column-start to set your item's widt
 
 ```
 
-#garden {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
-}
+    #garden {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
 
-#water {
-
-grid-column-start: -4;
-  grid-column-end: 6;
-}
+    #water {
+        grid-column-start: -4;
+        grid-column-end: 6;
+    }
 
 ```
