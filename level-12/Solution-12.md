@@ -12,16 +12,15 @@ Use grid-row-start to water these carrots.
 
 ```
 
+  #garden {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
+
+  #water {
+      grid-row-start: 3;
+  }
 
 
 ```
-
-#garden {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
-}
-
-#water {
-    grid-row-start: 3;
-}
