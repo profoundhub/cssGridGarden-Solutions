@@ -15,8 +15,8 @@
 
 #poison {
 
-grid-column: 2;
-grid-row: 5;
+    grid-column: 2;
+    grid-row: 5;
 }
 
 ```
