@@ -8,13 +8,16 @@
 }
 
 /*
-grid-template: 150px 1fr 1fr 1fr 1fr 1fr / 150px 1fr;
-repeat(5, 20%)
-5fr / 150px 1fr;
 
-seems to work: grid-template: 5fr 50px / 150px 1fr;
+    This was a tough one :P
+    * grid-template: 150px 1fr 1fr 1fr 1fr 1fr / 150px 1fr;
+    * repeat(5, 20%)
+    * 5fr / 150px 1fr;
 
-got it! 
-grid-template: 5fr 50px / 20% 1fr;
+    ... Seems to work: grid-template: 5fr 50px / 150px 1fr;
+
+    Got it! 
+
+    * grid-template: 5fr 50px / 20% 1fr;
 
 */
