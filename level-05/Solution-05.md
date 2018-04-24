@@ -11,4 +11,16 @@ Try setting grid-column-end to a negative value.
 
 ```
 
+#garden {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+  grid-column-start: 1;
+
+grid-column-end: -2;
+}
+
 ```
