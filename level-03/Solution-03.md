@@ -10,14 +10,14 @@ Using grid-column-end, water all of your carrots while avoiding the dirt. We don
 ### Code: 
 
 ```
-#garden {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
-}
+  #garden {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
 
-#water {
-  grid-column-start: 1;
-  grid-column-end: 4;
-}
+  #water {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
 ```
