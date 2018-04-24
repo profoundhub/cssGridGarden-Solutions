@@ -11,14 +11,14 @@ For example, grid-column: 2 / 4; will set the grid item to start on the 2nd vert
 
 ```
 
-#garden {
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    grid-template-rows: 20% 20% 20% 20% 20%;
-}
+    #garden {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
 
-#water {  
-    grid-column: 4/6;
-}
+    #water {  
+        grid-column: 4/6;
+    }
 
 ```
