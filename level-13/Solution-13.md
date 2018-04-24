@@ -16,7 +16,7 @@ Now give the shorthand property grid-row a try.
 }
 
 #water {
-    grid-row: span 3 / 6;
+  grid-row: span 3 / 6;
 }
 
 ```
