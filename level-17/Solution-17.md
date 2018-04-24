@@ -9,20 +9,18 @@ How about multiple items? You can overlap them without any trouble. Use grid-are
 
 ```
 
+    #garden {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
 
+    #water-1 {
+        grid-area: 1 / 4 / 6 / 5;
+    }
+
+    #water-2 {
+        grid-area: 2 / 3 / 5 / 6;
+    }
 
 ```
-
-#garden {
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    grid-template-rows: 20% 20% 20% 20% 20%;
-}
-
-#water-1 {
-    grid-area: 1 / 4 / 6 / 5;
-}
-
-#water-2 {
-    grid-area: 2 / 3 / 5 / 6;
-}

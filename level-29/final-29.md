@@ -1,7 +1,7 @@
 
 # Congratulations!
 
-## GRID GARDEN
+## GRID GARDEN -- Completed!
 
 You win! By the power of CSS grid, you were able to grow enough carrots for Froggy to bake his world famous 20-carrot cake. What, were you expecting a different hoppy friend?
 

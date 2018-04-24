@@ -9,16 +9,15 @@ Try using grid-column-end with the span keyword again to water your carrots.
 
 ```
 
-#garden {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
-}
+  #garden {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
 
-#water {
-  grid-column-start: 1;
-
-grid-column-end:6;
-}
+  #water {
+    grid-column-start: 1;
+    grid-column-end:6;
+  }
 
 ```
