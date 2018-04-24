@@ -2,3 +2,7 @@
     Solution #4 
 */
 
+#water {
+    grid-column-start: 5;
+    grid-column-end: -5;
+}

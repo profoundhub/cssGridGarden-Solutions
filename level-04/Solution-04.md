@@ -11,4 +11,16 @@ Try setting grid-column-end to a value less than 5 to water your carrots.
 
 ```
 
+#garden {
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
+
+#water {
+  grid-column-start: 5;
+
+grid-column-end: -5;
+}
+
 ```
