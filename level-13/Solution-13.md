@@ -5,6 +5,14 @@
 
 Now give the shorthand property grid-row a try.
 
+### Code: 
+
+```
+
+
+
+```
+
 #garden {
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
