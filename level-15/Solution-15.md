@@ -3,7 +3,7 @@
 
 ## GRID GARDEN
 
-You can also use grid-column and grid-row together to span larger areas within the grid. Give it a try!
+You can also use `grid-column` and `grid-row` together to span larger areas within the grid. Give it a try!
 
 ### Code: 
 
