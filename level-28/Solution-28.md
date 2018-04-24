@@ -1,17 +1,19 @@
 
-# Congratulations!
+# Solution #28
 
 ## GRID GARDEN
 
-You win! By the power of CSS grid, you were able to grow enough carrots for Froggy to bake his world famous 20-carrot cake. What, were you expecting a different hoppy friend?
+Your garden is looking great. Here you've left a 50 pixel path at the bottom of your garden and filled the rest with carrots.
 
-If you enjoyed Grid Garden, be sure to check out Flexbox Froggy to learn about another powerful new feature of CSS layout. You can also keep up-to-date with my other projects on my blog or Twitter.
-
-Want to support Grid Garden? Try out the topnotch web design and coding courses offered by Treehouse. And spread the word to your friends and family about Grid Garden!
+Unfortunately, the left 20% of your carrots have been overrun with weeds. Use CSS grid one last time to treat your garden.
 
 ### Code: 
 
 ```
 
-    None
+    #garden {
+        display: grid;
+        grid-template: 5fr 50px / 20% 1fr;
+    }
+
 ```

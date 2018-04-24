@@ -7,6 +7,14 @@ If typing out both grid-column and grid-row is too much for you, there's yet ano
 
 One example of this would be grid-area: 1 / 1 / 3 / 6;.
 
+### Code: 
+
+```
+
+
+
+```
+
 #garden {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;

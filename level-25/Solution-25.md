@@ -10,9 +10,9 @@ Use grid-template-columns with a combination of px and fr units to make the nece
 ### Code: 
 
 ```
-#garden {
-    display: grid;  
-    grid-template-columns: 75px 3fr 2fr;
-    grid-template-rows: 100%;
-}
+    #garden {
+        display: grid;  
+        grid-template-columns: 75px 3fr 2fr;
+        grid-template-rows: 100%;
+    }
 ```

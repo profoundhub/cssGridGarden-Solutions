@@ -9,9 +9,9 @@ Here, weeds make up the left 1/6 of your first row and carrots the remaining 5/6
 ### Code: 
 
 ```
-#garden {
-    display: grid;
-    grid-template-columns: 1fr 5fr;
-    grid-template-rows: 20% 20% 20% 20% 20%;
-}
+    #garden {
+        display: grid;
+        grid-template-columns: 1fr 5fr;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
 ```

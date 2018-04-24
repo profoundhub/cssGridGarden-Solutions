@@ -5,6 +5,14 @@
 
 How about multiple items? You can overlap them without any trouble. Use grid-area to define a second area that covers all of the unwatered carrots.
 
+### Code: 
+
+```
+
+
+
+```
+
 #garden {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;

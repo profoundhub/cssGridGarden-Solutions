@@ -3,3 +3,14 @@
 
 ## GRID GARDEN
 
+Typing both grid-column-start and grid-column-end every time can get tiring. Fortunately, grid-column is a shorthand property that can accept both values at once, separated by a slash.
+
+For example, grid-column: 2 / 4; will set the grid item to start on the 2nd vertical grid line and end on the 4th grid line.
+
+### Code: 
+
+```
+
+
+
+```
