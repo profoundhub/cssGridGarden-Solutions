@@ -7,7 +7,6 @@ One of the things that sets CSS grids apart from flexbox is that you can easily 
 
 Use grid-row-start to water these carrots.
 
-
 ### Code: 
 
 ```
