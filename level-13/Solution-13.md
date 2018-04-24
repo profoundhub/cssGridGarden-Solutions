@@ -9,10 +9,6 @@ Now give the shorthand property grid-row a try.
 
 ```
 
-
-
-```
-
 #garden {
   display: grid;
   grid-template-columns: 20% 20% 20% 20% 20%;
@@ -22,3 +18,6 @@ Now give the shorthand property grid-row a try.
 #water {
     grid-row: span 3 / 6;
 }
+
+```
+
