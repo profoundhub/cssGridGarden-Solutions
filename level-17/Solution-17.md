@@ -9,10 +9,6 @@ How about multiple items? You can overlap them without any trouble. Use grid-are
 
 ```
 
-
-
-```
-
 #garden {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
@@ -26,3 +22,5 @@ How about multiple items? You can overlap them without any trouble. Use grid-are
 #water-2 {
     grid-area: 2 / 3 / 5 / 6;
 }
+
+```

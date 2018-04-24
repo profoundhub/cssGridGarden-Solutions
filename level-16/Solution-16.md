@@ -11,10 +11,6 @@ One example of this would be grid-area: 1 / 1 / 3 / 6;.
 
 ```
 
-
-
-```
-
 #garden {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
@@ -24,3 +20,5 @@ One example of this would be grid-area: 1 / 1 / 3 / 6;.
 #water {
     grid-area: 1 / 2 / 4 / 6;
 }
+
+```
