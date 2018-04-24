@@ -1,5 +1,5 @@
 
-# Solution #3
+# Solution #6
 
 ## GRID GARDEN
 
