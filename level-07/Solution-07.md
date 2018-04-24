@@ -3,6 +3,9 @@
 
 ## GRID GARDEN
 
+Instead of defining a grid item based on the start and end positions of the grid lines, you can define it based on your desired column width using the span keyword. Keep in mind that span only works with positive values.
+
+For example, water these carrots with the rule grid-column-end: span 2;.
 
 ### Code: 
 
