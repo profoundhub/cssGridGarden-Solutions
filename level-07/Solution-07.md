@@ -10,15 +10,14 @@ For example, water these carrots with the rule grid-column-end: span 2;.
 ### Code: 
 
 ```
-#garden {
-  display: grid;
-  grid-template-columns: 20% 20% 20% 20% 20%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
-}
+    #garden {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
 
-#water {
-  grid-column-start: 2;
-
-grid-column-end: span 2;
-}
+    #water {
+        grid-column-start: 2;
+        grid-column-end: span 2;
+    }
 ```
