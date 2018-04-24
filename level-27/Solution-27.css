@@ -4,7 +4,7 @@
 
 #garden {
     display: grid;
-    grid-template: ;
+    grid-template: 60% 60% 60% / 200px;
 }
 
 #water {

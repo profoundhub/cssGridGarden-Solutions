@@ -15,7 +15,7 @@ Try using grid-template to water an area that includes the top 60% and left 200 
 
     #garden {
         display: grid;
-        grid-template: ;
+        grid-template: 60% 60% 60% / 200px;
     }
 
     #water {
