@@ -3,6 +3,7 @@
 
 ## GRID GARDEN
 
+Try using grid-column-end with the span keyword again to water your carrots.
 
 ### Code: 
 
