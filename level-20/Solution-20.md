@@ -13,9 +13,9 @@ But you can set the grid up however you like. Give grid-template-columns a new v
 
 ```
 #garden {
-    display: grid;
-    grid-template-columns: 50%;
-    grid-template-rows: 20% 20% 20% 20% 20%;
+  display: grid;
+  grid-template-columns: 50%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
 }
 
 #water {
