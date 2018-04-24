@@ -11,14 +11,14 @@ For example, grid-column-start: 3; will water the area starting at the 3rd verti
 
 ```
 
-    #garden {
-      display: grid;
-      grid-template-columns: 20% 20% 20% 20% 20%;
-      grid-template-rows: 20% 20% 20% 20% 20%;
-    }
+  #garden {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
 
-    #water {
-      grid-column-start: 3;
-    }
+  #water {
+    grid-column-start: 3;
+  }
 
 ```

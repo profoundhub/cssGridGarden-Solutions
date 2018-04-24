@@ -1,12 +1,11 @@
 /* Solution #11 */
 
 #garden {
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20% 20%;
-    grid-template-rows: 20% 20% 20% 20% 20%;
-  }
+  display: grid;
+  grid-template-columns: 20% 20% 20% 20% 20%;
+  grid-template-rows: 20% 20% 20% 20% 20%;
+}
   
-  #water {
-  
+#water {  
   grid-column: span 3/5;
-  }
+}
