@@ -12,6 +12,5 @@ Want to support Grid Garden? Try out the topnotch web design and coding courses 
 ### Code: 
 
 ```
-
     None
 ```

@@ -12,14 +12,14 @@ Using grid-template-columns with the repeat function, create eight columns each 
 ### Code: 
 
 ```
-#garden {
-    display: grid;
-    grid-template-columns: repeat(8,12.5%);
-    grid-template-rows: 20% 20% 20% 20% 20%;
-}
+    #garden {
+        display: grid;
+        grid-template-columns: repeat(8,12.5%);
+        grid-template-rows: 20% 20% 20% 20% 20%;
+    }
 
-#water {
-    grid-column: 1;
-    grid-row: 1;
-}
+    #water {
+        grid-column: 1;
+        grid-row: 1;
+    }
 ```

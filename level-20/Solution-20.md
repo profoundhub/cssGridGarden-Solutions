@@ -12,14 +12,14 @@ But you can set the grid up however you like. Give grid-template-columns a new v
 ### Code: 
 
 ```
-#garden {
-  display: grid;
-  grid-template-columns: 50%;
-  grid-template-rows: 20% 20% 20% 20% 20%;
-}
+  #garden {
+    display: grid;
+    grid-template-columns: 50%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+  }
 
-#water {
-  grid-column: 1;
-  grid-row: 1;
-}
+  #water {
+    grid-column: 1;
+    grid-row: 1;
+  }
 ```
