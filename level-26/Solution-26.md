@@ -13,7 +13,7 @@ Use grid-template-rows to water all but the top 50 pixels of your garden. Note t
   #garden {
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-
+    grid-template-rows: 50px 0fr 0fr 0fr 1fr;
   }
 
   #water {

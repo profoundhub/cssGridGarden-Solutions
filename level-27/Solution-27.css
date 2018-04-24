@@ -2,3 +2,12 @@
     Solution #27
 */
 
+#garden {
+    display: grid;
+    grid-template: 60% 60% 60% / 200px;
+}
+
+#water {
+    grid-column: 1;
+    grid-row: 1;
+}
