@@ -10,6 +10,10 @@ Unfortunately, the left 20% of your carrots have been overrun with weeds. Use CS
 ### Code: 
 
 ```
-    
+
+    #garden {
+        display: grid;
+
+    }
 
 ```
