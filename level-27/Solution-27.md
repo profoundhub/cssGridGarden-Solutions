@@ -7,6 +7,14 @@
 
 ```
 
-    
+    #garden {
+        display: grid;
+
+    }
+
+    #water {
+        grid-column: 1;
+        grid-row: 1;
+    }
 
 ```
