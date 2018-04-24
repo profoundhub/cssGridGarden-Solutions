@@ -4,7 +4,7 @@
 
 #garden {
     display: grid;
-    grid-template: ;
+    grid-template: 5fr 50px / 20% 1fr;
 }
 
 /*
@@ -13,4 +13,8 @@ repeat(5, 20%)
 5fr / 150px 1fr;
 
 seems to work: grid-template: 5fr 50px / 150px 1fr;
+
+got it! 
+grid-template: 5fr 50px / 20% 1fr;
+
 */

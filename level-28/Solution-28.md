@@ -13,7 +13,7 @@ Unfortunately, the left 20% of your carrots have been overrun with weeds. Use CS
 
     #garden {
         display: grid;
-        grid-template: ;
+        grid-template: 5fr 50px / 20% 1fr;
     }
 
 ```
